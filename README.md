@@ -1,4 +1,4 @@
-# Age Estimation by a CNN (TensorFlow)
+# Age Estimation using a CNN (TensorFlow)
 
 ## Introduction
 In this project, the aim is to implement a fairly small CNN for the task of age estimation from facial images. The architecture of the implemented Neural Network is based on the architecture proposed in the following paper:<br>
