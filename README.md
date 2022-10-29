@@ -2,7 +2,7 @@
 
 ## Introduction
 In this project, the aim is to implement a fairly small CNN for the task of age estimation from facial images. The architecture of the implemented Neural Network is based on the architecture proposed in the following paper:<br>
-### C. Miron, V. Manta, R. Timofte, A. Pasarica and R. Ciucu, "Efficient convolutional neural network for apparent age prediction," 2019 IEEE 15th International Conference on Intelligent Computer Communication and Processing (ICCP), 2019, pp. 259-262, doi: 10.1109/ICCP48234.2019.8959632.
+### C. Miron, V. Manta, R. Timofte, A. Pasarica and R. Ciucu, "Efficient convolutional neural network for apparent age prediction," 2019 IEEE 15th International Conference on Intelligent Computer Communication and Processing (ICCP), 2019, pp. 259-262, [doi: 10.1109/ICCP48234.2019.8959632](10.1109/ICCP48234.2019.8959632).
 <br>
 However, there is a slight difference. In the mentioned paper, the activation function the output layer, i.e., the Dense layer is Softmax function, whereas in the implemented CNN, the activation function used in the output layer is ReLU.
 <br>A summary of this model is given in the following table:
