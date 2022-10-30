@@ -59,7 +59,7 @@ $ cd Age_Estimation_CNN
 Alternatively, if `git` package is not installed, you can download the zip file for this repository and then extract it.
 
 It is originally implemented in Google Colab environmnet (original notebook [here](https://colab.research.google.com/drive/1GTDfkU_g1YEKDk64PTF7t9Rnzl61gct5?usp=sharing))
-<br>For convinience, the downloaded notebook (ipynb file) and its python file (py file) are uploaded to this repository.
+<br>For convinience, the downloaded notebook (.ipynb file) and its python file (.py file) are uploaded to this repository.
 
 ## Requirements
 
