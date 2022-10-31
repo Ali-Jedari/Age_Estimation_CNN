@@ -65,7 +65,7 @@ It is originally implemented in Google Colab environmnet (original notebook [her
 
 ## Requirements
 
-This project is written in python 3 and requires TensorFlow, Scikit-learn, Pandas, Numpy libraries.
+This project is written in python 3 and requires TensorFlow, Scikit-learn, Pandas, and Numpy.
 
 All the required libraries can be installed by running the following command:
 
