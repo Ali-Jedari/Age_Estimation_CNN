@@ -4,7 +4,7 @@
 In this project, the aim is to implement a fairly small CNN for the task of age estimation from facial images. The architecture of the implemented Neural Network is based on the architecture proposed in the following paper:<br>
 ### C. Miron, V. Manta, R. Timofte, A. Pasarica and R. Ciucu, "Efficient convolutional neural network for apparent age prediction," 2019 IEEE 15th International Conference on Intelligent Computer Communication and Processing (ICCP), 2019, pp. 259-262, [doi: 10.1109/ICCP48234.2019.8959632](https://doi.org/10.1109/ICCP48234.2019.8959632).
 <br>
-However, there is a slight difference. In the mentioned paper, the activation function the output layer, i.e., the Dense layer is Softmax function, whereas in the implemented CNN, the activation function used in the output layer is ReLU.
+However, there is a slight difference. In the mentioned paper, the activation function the output layer, i.e. the Dense layer, is Softmax function, whereas in the implemented CNN, the activation function used in the output layer is ReLU.
 <br>A summary of this model is given in the following table:
 
 | Layer  | Kernel | Activation | Output Shape
@@ -50,13 +50,15 @@ APPA-REAL dataset, however, has the sample facial images split into three mentio
 ## Installation
 
 First, you'll need to clone this repository to your local drive via the following command:
-
 ```shell
 $ git clone https://github.com/Ali-Jedari/Age_Estimation_CNN.git
+```
+And then:
+```shell
 $ cd Age_Estimation_CNN
 ```
 
-Alternatively, if `git` package is not installed, you can download the zip file for this repository and then extract it.
+Alternatively, if `git` is not installed, you can download the zip file for this repository and then extract it.
 
 It is originally implemented in Google Colab environmnet (original notebook [here](https://colab.research.google.com/drive/1GTDfkU_g1YEKDk64PTF7t9Rnzl61gct5?usp=sharing))
 <br>For convinience, the downloaded notebook (.ipynb file) and its python file (.py file) are uploaded to this repository.
