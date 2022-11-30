@@ -41,7 +41,7 @@ Datasets:
 
 [UTKFace](https://susanqq.github.io/UTKFace/)
 and
-[APPA-REAL](http://158.109.8.102/AppaRealAge/appa-real-release.zip)
+[APPA-REAL](https://chalearnlap.cvc.uab.cat/dataset/26/description/)
 
 Data samples of these datasets are divided into three segments: Train, Validation, and Test
 UTKFace contains 23.7k image files. When using this dataset, 15% of the samples are considered as the test data and 5% of the rest is the validation data and the other 19k samples are used as the train data.
