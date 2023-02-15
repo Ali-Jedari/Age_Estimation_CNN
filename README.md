@@ -110,10 +110,10 @@ The following figure shows an example of this model's results on ten randomly ch
 
 When using the APPA-REAL dataset, this model obtains an MAE of 3.0292 on the training set, 10.0869 on the validation set, and 10.0648 on the test set.
 
-The following depicts the MAE-Epoch graph of this model when using the UTKFace dataset:
+The following depicts the MAE-Epoch graph of this model when using the APPA-REAL dataset:
 
 <img src="docs/index_appa.png" alt="MAE-Epoch APPA-REAL">
 
-The following figure shows an example of this model's results on ten randomly chosen images from UTKFace:
+The following figure shows an example of this model's results on ten randomly chosen images from APPA-REAL:
 
-<img src="docs/appa.png" alt="Results on UTKFace">
+<img src="docs/appa.png" alt="Results on APPA-REAL">
